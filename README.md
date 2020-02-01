@@ -4,6 +4,7 @@ Easy HTTP Library with Fetch using Promises to consume external and Internal API
 
 This library is one of the exercises developed in the course Modern JavaScript from the Beginning by Udemy/Brad Traversy.
 
-Technologies:
+
+### Technologies:
 
 JavaScript
